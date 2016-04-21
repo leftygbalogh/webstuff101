@@ -1,0 +1,27 @@
+/**
+ * Code is prose.
+ * Lefty G Balogh
+ */
+/* 
+    Created on : Apr 19, 2016, 8:04:26 PM
+    Author     : lefty
+*/
+
+p, div {
+    text-align: justify;
+    font-family: monospace;
+    margin: 5 px;
+    padding: 5 px;
+    
+}
+h1{
+    font-size: 45px;
+}
+
+h1,h2{
+    font-family: monospace;
+}
+
+a:hover{
+    font-size: larger;
+}
